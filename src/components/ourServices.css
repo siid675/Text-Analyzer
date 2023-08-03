@@ -1,0 +1,11 @@
+
+#p{
+    text-align: center;
+    font-weight: 800;
+    color: rgb(50, 43, 43);
+    border: solid rgb(193, 164, 164);
+    width: 200px;
+    border-radius: 10px;
+    background-color: rgb(224, 248, 39);
+    /* box-shadow: 0px 5px 1px 0px inset; */
+}
