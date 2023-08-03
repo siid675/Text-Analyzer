@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/siid675/Text-Analyzer/static/css/main.91be97a4.css",
+    "main.js": "/siid675/Text-Analyzer/static/js/main.f93c5bd9.js",
+    "static/js/787.fade2e9e.chunk.js": "/siid675/Text-Analyzer/static/js/787.fade2e9e.chunk.js",
+    "index.html": "/siid675/Text-Analyzer/index.html",
+    "main.91be97a4.css.map": "/siid675/Text-Analyzer/static/css/main.91be97a4.css.map",
+    "main.f93c5bd9.js.map": "/siid675/Text-Analyzer/static/js/main.f93c5bd9.js.map",
+    "787.fade2e9e.chunk.js.map": "/siid675/Text-Analyzer/static/js/787.fade2e9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91be97a4.css",
+    "static/js/main.f93c5bd9.js"
+  ]
+}
