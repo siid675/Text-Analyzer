@@ -10,7 +10,7 @@ export default function Navbar(props) {
   <div className="container-fluid">
     <img src='https://cdn-icons-png.flaticon.com/512/5234/5234318.png'  style={{width:50,borderRadius:100}} />
     <Link className="navbar-brand mx-1" to="/">{props.title}</Link>
-    <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent " aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>
     <div className="collapse navbar-collapse mx-5" id="navbarSupportedContent">
